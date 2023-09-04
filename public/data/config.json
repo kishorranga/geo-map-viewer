@@ -1,0 +1,18 @@
+{
+    "env": {
+        "type": "development",
+        "pointApiUrl": "../data/geo-points.json"
+    },
+    "mapConfig": {
+        "defaultSetViewLatLng": [
+            1.786,
+            -2.09
+        ],
+        "deafultZoomLevel": 7,
+        "draggingFlag": true
+    },
+    "uiConfig": {
+        "infoAlertPause": 3000,
+        "erroAlertPause": 5000
+    }
+}

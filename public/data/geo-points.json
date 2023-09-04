@@ -1,0 +1,46 @@
+{
+    "geoPointDataList": [
+        {
+            "pointNum": "1A",
+            "eastingPoint": 164465.645,
+            "northingPoint": 197713.476,
+            "depth": 5,
+            "layerAmt": 3
+        },
+        {
+            "pointNum": "2B",
+            "eastingPoint": 161313.227,
+            "northingPoint": 198240.94,
+            "depth": 6,
+            "layerAmt": 6,
+            "markerStyle": {
+                "iconType": "CUSTOM_RED"
+            }
+        },
+        {
+            "pointNum": "3C",
+            "eastingPoint": 372072,
+            "northingPoint": 166621,
+            "depth": 21,
+            "layerAmt": 1,
+            "markerStyle": {
+                "iconType": "CUSTOM_RED",
+                "popupType": "DARK_POPUP"
+            }
+        },
+        {
+            "pointNum": "4D",
+            "eastingPoint": 395391,
+            "northingPoint": 121794,
+            "depth": 3.23,
+            "layerAmt": 10
+        },
+        {
+            "pointNum": "5E",
+            "eastingPoint": 120000,
+            "northingPoint": 160000,
+            "depth": 4,
+            "layerAmt": 3
+        }
+    ]
+}
